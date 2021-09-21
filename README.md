@@ -28,3 +28,4 @@ Meyelesaikan Pembelajaran [Codecademy Course - HTML](https://www.codecademy.com/
 Buat halaman indeks HTML (index.html) yang berisi cerita singkat tentang diri Anda (ringkasan)
 tambahkan tautan untuk membuka halaman web sebelumnya
 Tambahkan tautan di halaman cv.html, form1.html, form2.html dan hasil.html serta tautan untuk kembali ke indeks
+ <input type="hidden" id="custId" name="custId" value="3487">
