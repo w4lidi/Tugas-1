@@ -1,0 +1,13 @@
+*{
+	
+	font-family: sans-serif;
+}
+body{
+	background-color: #CFCFCF;
+}
+/*style for cv*/
+#container{
+	background-color: #e2e2e2;
+	width: 600px;
+	margin: auto;
+}
