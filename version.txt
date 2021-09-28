@@ -1,0 +1,26 @@
+v 1.0
+  - membuat file cv mengandung 
+    * Photo
+    * Table 
+    * Listeing (bullet dan numbering)
+    * Link ke media sosial dan email
+    * Gunakan Font yang menarik
+  - membuat form 1 dan 2 dengan
+    *Text field, radio button, select box, text area, check box
+    * Hidden value (set value = NIM nim mahasiswa)
+    * Submit and reset button
+    * form ACITION ke hasil.html
+  - form 1 menngunakan method POST
+  - form 2 menggunakan method GET
+  - membuat hasil.html 
+  - membuat index.html berisi
+    * llink ke halaman cv.html, form1.html, form2.html dan hasil.html
+    * link untuk kembali ke indeks
++-----------------------------------------------------------------------------+
+v 1.1
+  - menambahkan css folder dengan isi
+    * style.css
+  - menambahkan folder img dengan isi
+    * mypoto.img
+  - menambahkan link css di cv.html, form1.html, form2.html dan hasil.html
+  - mengganti background 
