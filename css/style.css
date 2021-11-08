@@ -3,11 +3,74 @@
 	font-family: sans-serif;
 }
 body{
-	background-color: #CFCFCF;
+	background-color: #ffcdb2;
 }
 /*style for cv*/
 #container{
 	background-color: #e2e2e2;
 	width: 600px;
 	margin: auto;
+}
+
+/*style for form 1*/
+
+.l-box {
+    background-color: #fdd1b9;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    width: 400px;
+    border: 1px solid #f8c5a9;
+}
+
+input {
+    width: 300px;
+    font-weight: bolder;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 20px;
+    outline: 1px solid #ffb4a2;
+    font-size: 12pt;
+    border: none;
+    background-color: #fdd1b9
+}
+input:focus{
+    background-color: #ffd7c1;
+}
+.button, .button:focus {
+    width: 120px;
+    color: #ffcdb2;
+    background: #6d6875;
+    cursor: pointer;
+    outline: none;
+}
+
+.button:active {
+    width: 120px;
+    color: #ffcdb2;
+    background: #808080;
+}
+
+a{
+    text-decoration: none;
+    color: #2b8ced;
+    padding: none;
+    margin: 0;
+}
+a:active{
+    color: #ffa97b;
+    
+}
+.forgot{
+    margin: 0;
+    padding: 0;
+}
+
+.reg {
+    margin: 0;
+}
+
+p{
+    margin-bottom: 0;
 }

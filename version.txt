@@ -24,3 +24,8 @@ v 1.1
     * mypoto.img
   - menambahkan link css di cv.html, form1.html, form2.html dan hasil.html
   - mengganti background 
+
++-----------------------------------------------------------------------------+
+v 1.2
+  - edit style untuk fom1
+  - edit index
